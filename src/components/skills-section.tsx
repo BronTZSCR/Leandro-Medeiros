@@ -59,7 +59,7 @@ export function SkillsSection() {
             Minhas </span><span className="gradient-text" data-unique-id="9b79895f-affc-41e0-b6c7-8febaf616839" data-file-name="components/skills-section.tsx"><span className="editable-text" data-unique-id="4baf1478-bd2b-4ae4-9b0a-4bf78b916041" data-file-name="components/skills-section.tsx">Habilidades</span></span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto" data-unique-id="1c04c838-2fd9-407b-ad02-9f8dbe31fd54" data-file-name="components/skills-section.tsx"><span className="editable-text" data-unique-id="245d027e-c4f9-409b-babf-7638d60d1d70" data-file-name="components/skills-section.tsx">
-            Tecnologias e ferramentas que domino para criar soluções excepcionais
+            Algumas das habilidades que tenho
           </span></p>
         </motion.div>
 

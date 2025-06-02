@@ -81,8 +81,8 @@ export function AboutSection() {
             }} transition={{
               duration: 0.3
             }} data-unique-id="bdef9ade-4804-47fa-a4f1-299cf3904127" data-file-name="components/about-section.tsx">
-                <div className="text-3xl font-bold gradient-text mb-2" data-unique-id="26208e60-76fa-4003-ba48-ba5ad58ae899" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="df14f42d-b693-4186-abf9-8e529a6529b0" data-file-name="components/about-section.tsx">50+</span></div>
-                <div className="text-sm text-muted-foreground font-medium" data-unique-id="a1317186-0798-488b-9f6b-a5c9e22f56ee" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="9134c76f-878b-418d-b731-8eba815bc49d" data-file-name="components/about-section.tsx">Projetos Concluídos</span></div>
+                <div className="text-3xl font-bold gradient-text mb-2" data-unique-id="26208e60-76fa-4003-ba48-ba5ad58ae899" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="df14f42d-b693-4186-abf9-8e529a6529b0" data-file-name="components/about-section.tsx">10+</span></div>
+                <div className="text-sm text-muted-foreground font-medium" data-unique-id="a1317186-0798-488b-9f6b-a5c9e22f56ee" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="9134c76f-878b-418d-b731-8eba815bc49d" data-file-name="components/about-section.tsx">Participações em atividades</span></div>
               </motion.div>
               
               <motion.div className="text-center p-6 bg-white rounded-xl shadow-soft" whileHover={{
@@ -91,8 +91,8 @@ export function AboutSection() {
             }} transition={{
               duration: 0.3
             }} data-unique-id="6ea56be7-7a5e-4d2b-bb1e-a68388f6df63" data-file-name="components/about-section.tsx">
-                <div className="text-3xl font-bold gradient-text mb-2" data-unique-id="aac56c3b-a776-4fb5-8cff-fc67e68499e5" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="0c6bc02d-1ab3-4fed-9ec7-1e1f48fc0178" data-file-name="components/about-section.tsx">5+</span></div>
-                <div className="text-sm text-muted-foreground font-medium" data-unique-id="e52fafb4-f639-4463-aff3-35748d6f022a" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="b9533ae8-ec90-40d1-8bdf-dda9b6630ef5" data-file-name="components/about-section.tsx">Anos de Experiência</span></div>
+                <div className="text-3xl font-bold gradient-text mb-2" data-unique-id="aac56c3b-a776-4fb5-8cff-fc67e68499e5" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="0c6bc02d-1ab3-4fed-9ec7-1e1f48fc0178" data-file-name="components/about-section.tsx">2+</span></div>
+                <div className="text-sm text-muted-foreground font-medium" data-unique-id="e52fafb4-f639-4463-aff3-35748d6f022a" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="b9533ae8-ec90-40d1-8bdf-dda9b6630ef5" data-file-name="components/about-section.tsx">Anos de Experiência na aréa de nutrição</span></div>
               </motion.div>
             </div>
           </motion.div>

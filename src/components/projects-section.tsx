@@ -71,7 +71,7 @@ export function ProjectsSection() {
             Meus </span><span className="gradient-text" data-unique-id="c0d76656-063d-434f-8ad7-7f22a812fc29" data-file-name="components/projects-section.tsx"><span className="editable-text" data-unique-id="a4c18000-ffec-4ea0-b986-30aff97afacb" data-file-name="components/projects-section.tsx">Projetos</span></span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto" data-unique-id="bacb2e64-0e4c-4bf4-91c9-4879fa174a9a" data-file-name="components/projects-section.tsx"><span className="editable-text" data-unique-id="5c9d6248-0ef9-4158-b444-e6bb6190c6b3" data-file-name="components/projects-section.tsx">
-            Alguns dos projetos que desenvolvi recentemente
+            Algumas atividades que participei
           </span></p>
         </motion.div>
 
