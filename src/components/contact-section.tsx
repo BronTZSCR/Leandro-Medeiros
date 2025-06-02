@@ -44,7 +44,8 @@ export function ContactSection() {
             Entre em </span><span className="gradient-text" data-unique-id="ab8ed705-6e7d-487f-8244-89cbe274aa18" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="74edc95e-0e61-4836-98bb-b92a8753478e" data-file-name="components/contact-section.tsx">Contato</span></span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto" data-unique-id="28d734ec-1f9e-4c8e-a2b3-261c50f8429d" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="4dcee468-997c-4b62-a6e2-7a98544a9402" data-file-name="components/contact-section.tsx">
-            Vamos conversar sobre seu próximo projeto
+            Estou a disposição para o que precisar!
+
           </span></p>
         </motion.div>
 
@@ -76,7 +77,7 @@ export function ContactSection() {
                 </div>
                 <div data-unique-id="df060619-db6c-4224-baee-10410f63af9b" data-file-name="components/contact-section.tsx">
                   <h4 className="font-semibold" data-unique-id="fb7f4861-1622-49e7-8e44-bd29bbe4fcf5" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="aba4605f-9127-4a37-9e9b-db29d6df868f" data-file-name="components/contact-section.tsx">Email</span></h4>
-                  <p className="text-muted-foreground" data-unique-id="fbc800bd-370c-4070-9fdc-5ec7011f1567" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="ce4917e0-0769-464c-9171-0798815a04e8" data-file-name="components/contact-section.tsx">leandro.medeiros@email.com</span></p>
+                  <p className="text-muted-foreground" data-unique-id="fbc800bd-370c-4070-9fdc-5ec7011f1567" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="ce4917e0-0769-464c-9171-0798815a04e8" data-file-name="components/contact-section.tsx">medeirosleandro075@gmail.com</span></p>
                 </div>
               </motion.div>
 
@@ -91,7 +92,7 @@ export function ContactSection() {
                 </div>
                 <div data-unique-id="083dc9ed-7920-43e3-ab15-59712e99a11e" data-file-name="components/contact-section.tsx">
                   <h4 className="font-semibold" data-unique-id="d91f3240-0bcd-44b6-9789-fb98d01f7fbc" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="44ad7ab9-b051-4b49-8d5a-749fa83339fc" data-file-name="components/contact-section.tsx">Telefone</span></h4>
-                  <p className="text-muted-foreground" data-unique-id="7a061f96-3426-409b-af2b-0199894fc07d" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="9e16b82e-a968-4444-8506-bc2bd130f8b4" data-file-name="components/contact-section.tsx">+55 (11) 99999-9999</span></p>
+                  <p className="text-muted-foreground" data-unique-id="7a061f96-3426-409b-af2b-0199894fc07d" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="9e16b82e-a968-4444-8506-bc2bd130f8b4" data-file-name="components/contact-section.tsx">+55 (84) 9 921843-69</span></p>
                 </div>
               </motion.div>
 
@@ -106,7 +107,7 @@ export function ContactSection() {
                 </div>
                 <div data-unique-id="c1a488c3-9d62-45db-be01-1c9b5cb31a57" data-file-name="components/contact-section.tsx">
                   <h4 className="font-semibold" data-unique-id="796dd33a-2023-4520-90f5-e1909fa54edd" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="e79c4e67-085b-4e5b-ba00-f7a788772c14" data-file-name="components/contact-section.tsx">Localização</span></h4>
-                  <p className="text-muted-foreground" data-unique-id="f93bff2d-bbd4-4d9f-b3a3-7b4d746a97a7" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="ba85fc38-777f-4fdc-9749-d4a7479d963a" data-file-name="components/contact-section.tsx">São Paulo, Brasil</span></p>
+                  <p className="text-muted-foreground" data-unique-id="f93bff2d-bbd4-4d9f-b3a3-7b4d746a97a7" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="ba85fc38-777f-4fdc-9749-d4a7479d963a" data-file-name="components/contact-section.tsx">Mossoró-RN, Brasil</span></p>
                 </div>
               </motion.div>
             </div>
