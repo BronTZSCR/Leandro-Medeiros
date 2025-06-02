@@ -1,7 +1,7 @@
 {
-    "name": "Portifolio Leandro Medeiros",
-    "short_name": "BronTZ",
-    "description": "BronTZ SCR - DEV",
+    "name": "Creatr Base",
+    "short_name": "Creatr",
+    "description": "Creatr - Your Creative Platform",
     "icons": [{
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
