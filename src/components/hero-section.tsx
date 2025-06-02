@@ -61,7 +61,7 @@ export function HeroSection() {
           duration: 0.8
         }} data-unique-id="0c6691ff-99bd-44cd-a57f-dd4d892b189d" data-file-name="components/hero-section.tsx"><span className="editable-text" data-unique-id="f400247a-8143-48cb-8695-9ac25d78f62e" data-file-name="components/hero-section.tsx">
             Estudante de Agronomia pela UFERSA especializando-se em Nutrição de Plantas e Fertilidade do Solo. E cusro tecnico em zootecnia pelo SENAR.
-            
+
           </span></motion.p>
         </motion.div>
 
@@ -100,7 +100,7 @@ export function HeroSection() {
         delay: 0.8,
         duration: 0.8
       }} data-unique-id="a282b4bf-06e4-4fad-9c16-2f27b1fb8e3d" data-file-name="components/hero-section.tsx">
-          <motion.a href="https://github.com" target="_blank" className="p-3 bg-white rounded-full shadow-soft hover:shadow-medium transition-all duration-300 text-primary" whileHover={{
+          <motion.a href="https://github.com/BronTZSCR" target="_blank" className="p-3 bg-white rounded-full shadow-soft hover:shadow-medium transition-all duration-300 text-primary" whileHover={{
           scale: 1.1,
           y: -2
         }} data-unique-id="522e5dcf-5fa5-414f-9fcd-67590f41fbe8" data-file-name="components/hero-section.tsx">
