@@ -45,7 +45,7 @@ export function AboutSection() {
         }} data-unique-id="04da1876-92af-48e7-901c-a8ba3a6fc3b3" data-file-name="components/about-section.tsx">
             <div className="relative" data-unique-id="be2f977b-4275-4168-9f4f-40a82239e6cf" data-file-name="components/about-section.tsx">
               <div className="absolute -top-4 -left-4 w-full h-full gradient-bg rounded-2xl opacity-20" data-unique-id="f06d2893-ad42-4c0a-9756-951df8bef4db" data-file-name="components/about-section.tsx"></div>
-              <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&crop=face" alt="Profile" className="relative rounded-2xl shadow-large w-full max-w-md mx-auto" data-unique-id="82c3cac3-9708-44e0-9e85-ee96131e5c6b" data-file-name="components/about-section.tsx" />
+              <img src="https://i.imgur.com/e03y9pL.png" alt="Profile" className="relative rounded-2xl shadow-large w-full max-w-md mx-auto" data-unique-id="82c3cac3-9708-44e0-9e85-ee96131e5c6b" data-file-name="components/about-section.tsx" />
             </div>
           </motion.div>
 
@@ -63,15 +63,15 @@ export function AboutSection() {
           delay: 0.4
         }} className="space-y-6" data-unique-id="fcd4c4e2-5f62-4443-96b0-c1989265b3bb" data-file-name="components/about-section.tsx">
             <h3 className="text-2xl font-semibold mb-4" data-unique-id="a48dd157-835e-460d-b3dc-485b995b1af4" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="07971bdc-f16e-4846-b7cf-7a227018b287" data-file-name="components/about-section.tsx">
-              Desenvolvedor apaixonado por tecnologia
+              Apaixonado pelo agro e tudo que o envolve.
             </span></h3>
             
             <p className="text-lg text-muted-foreground leading-relaxed" data-unique-id="8649617b-6627-4664-8d7f-98fb710b62e3" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="ef958ad9-f40d-480d-b52f-eddefb938795" data-file-name="components/about-section.tsx">
-              Com mais de 5 anos de experiência em desenvolvimento web, sou especializado em criar soluções digitais que combinam funcionalidade e design excepcional.
+              Com mais de 5 anos atuando no campo da agronomia, venho me dedicando ao manejo nutricional de culturas, visando o aumento da produtividade e a saúde do solo.
             </span></p>
             
             <p className="text-lg text-muted-foreground leading-relaxed" data-unique-id="9499179b-6809-42b1-9826-326ca9d66eca" data-file-name="components/about-section.tsx"><span className="editable-text" data-unique-id="5667468c-5030-4ce1-a1a8-6368ed4ed72d" data-file-name="components/about-section.tsx">
-              Minha paixão está em transformar ideias complexas em interfaces intuitivas e experiências memoráveis para os usuários.
+              Sou movido pelo desafio de interpretar análises de solo e tecido foliar para desenvolver estratégias práticas e sustentáveis que garantam o melhor desempenho das lavouras.
             </span></p>
 
             <div className="grid grid-cols-2 gap-6 pt-6" data-unique-id="6228de69-6f4b-40e4-b20b-fdeb60794cdd" data-file-name="components/about-section.tsx">
