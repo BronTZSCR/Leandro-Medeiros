@@ -10,7 +10,11 @@ const config = {
         "@typescript-eslint",
         "react",
         "react-hooks",
+<<<<<<< HEAD
+        "BronTZ"
+=======
         //"creatr"
+>>>>>>> b6055af10b40d0aa303071272a73bc3a63bc10c2
     ],
     "globals": {
         "React": "readonly"
@@ -38,7 +42,6 @@ const config = {
         "plugin:import/errors",
         "plugin:import/warnings",
         "plugin:import/typescript",
-        //"plugin:creatr/recommended"
     ],
     "rules": {
         "react/react-in-jsx-scope": "off",

@@ -1,7 +1,7 @@
 import "@/styles/globals.css";
 import React from "react";
 import { type Metadata } from "next";
-import { DevtoolsProvider } from 'creatr-devtools';
+//import { DevtoolsProvider } from 'creatr-devtools';
 import { ThemeProvider } from 'next-themes';
 export const viewport = {
   width: "device-width",
