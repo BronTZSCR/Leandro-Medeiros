@@ -60,7 +60,8 @@ export function HeroSection() {
           delay: 0.4,
           duration: 0.8
         }} data-unique-id="0c6691ff-99bd-44cd-a57f-dd4d892b189d" data-file-name="components/hero-section.tsx"><span className="editable-text" data-unique-id="f400247a-8143-48cb-8695-9ac25d78f62e" data-file-name="components/hero-section.tsx">
-            Estudante de Agronomia pela UFERSA especializado em Nutrição de Plantas e Fertilidade do Solo
+            Estudante de Agronomia pela UFERSA especializando-se em Nutrição de Plantas e Fertilidade do Solo. E cusro tecnico em zootecnia pelo SENAR.
+            
           </span></motion.p>
         </motion.div>
 

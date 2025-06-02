@@ -44,7 +44,8 @@ export function ContactSection() {
             Entre em </span><span className="gradient-text" data-unique-id="ab8ed705-6e7d-487f-8244-89cbe274aa18" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="74edc95e-0e61-4836-98bb-b92a8753478e" data-file-name="components/contact-section.tsx">Contato</span></span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto" data-unique-id="28d734ec-1f9e-4c8e-a2b3-261c50f8429d" data-file-name="components/contact-section.tsx"><span className="editable-text" data-unique-id="4dcee468-997c-4b62-a6e2-7a98544a9402" data-file-name="components/contact-section.tsx">
-            Vamos conversar sobre seu próximo projeto
+            Estou a disposição para o que precisar!
+            
           </span></p>
         </motion.div>
 
